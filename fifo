@@ -1,3 +1,4 @@
+$ git clone github.com:vhda/verilog_systemverilog.vim.git
 module fifo();
 
 
